@@ -114,7 +114,7 @@ Testing psnr 34.67910163402557 (avg)<br>
 Generated images & video are in `logs/nerf_synthetic/dvgo_lego/render_test_fine_last_new/`<br>
 These images can be used for style transfer.<be>
 
-![Output Sample](https://github.com/diptyaroop/CS674_Spring24/assets/48976139/591e5120-f3fc-4a00-ad76-dcc8c12502d0)
+https://github.com/diptyaroop/CS674_Spring24/assets/48976139/591e5120-f3fc-4a00-ad76-dcc8c12502d0
 
 **Lego using NeRF (vanilla DVGO)**
 
