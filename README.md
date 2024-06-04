@@ -136,7 +136,9 @@ https://github.com/diptyaroop/CS674_Spring24/assets/48976139/91a89e75-48d5-4204-
 
 4. Bottle (Generated. **Work in progress**): Checking how DVGO works on a new dataset<br>
 Testing PSNR around 27.39 at 256x256x256 resolution<br>
-Generated images & video are in `logs/nerf_synthetic/dvgo_bottle/render_test_fine_last_new/`<br>
+
+https://github.com/Trileo01/NeRFStyle-vs-StyleNeRF/assets/60534338/b6e2786d-3c13-4fac-a651-0e809e9e6346
+
 
 ## Scripts
 1. Script to remove background from generated images. Images are generated using [this](https://github.com/NVlabs/instant-ngp/blob/master/docs/nerf_dataset_tips.md) link & colmap2NeRF.py
